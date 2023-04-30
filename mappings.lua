@@ -25,8 +25,5 @@ return {
     -- setting a mapping to false will disable it
     -- ["<esc>"] = false,
   },
-  v = {
-    ["J"] = {":m '>+1<CR>gv=gv", desc = "move blocks down"},
-    ["K"] = {":m '<-2<CR>gv=gv", desc = "move blocks up"},
-  }
+
 }
