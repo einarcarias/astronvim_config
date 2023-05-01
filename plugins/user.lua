@@ -12,6 +12,10 @@ return {
   -- {
   -- 'echasnovski/mini.move',
   -- version = '*'},
+   -- {"ellisonleao/gruvbox.nvim",
+   --   opts = {},
+   -- }
+   
   --  
   -- }
 }
