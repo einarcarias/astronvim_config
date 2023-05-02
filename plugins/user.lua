@@ -12,15 +12,10 @@ return {
   -- {
   -- 'echasnovski/mini.move',
   -- version = '*'},
-<<<<<<< HEAD
   --
   {
     "luisiacc/gruvbox-baby",
   },
-  { require 'cmp'.setup {
-    sources = {
-      { name = 'nvim_lsp_signature_help' }
-    } } },
   {
     "karb94/neoscroll.nvim",
     opts = {
@@ -38,13 +33,4 @@ return {
     event = "User AstroFile"
 
   },
-
-=======
-   -- {"ellisonleao/gruvbox.nvim",
-   --   opts = {},
-   -- }
-   
-  --  
-  -- }
->>>>>>> 36af3a58b073e94ee2abc0d873a261740e5ab3fb
 }
