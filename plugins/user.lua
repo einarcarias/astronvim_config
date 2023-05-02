@@ -12,6 +12,7 @@ return {
   -- {
   -- 'echasnovski/mini.move',
   -- version = '*'},
+<<<<<<< HEAD
   --
   {
     "luisiacc/gruvbox-baby",
@@ -38,4 +39,12 @@ return {
 
   },
 
+=======
+   -- {"ellisonleao/gruvbox.nvim",
+   --   opts = {},
+   -- }
+   
+  --  
+  -- }
+>>>>>>> 36af3a58b073e94ee2abc0d873a261740e5ab3fb
 }
